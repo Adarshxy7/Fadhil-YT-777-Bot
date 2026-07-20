@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "STATUS", // required by Discord API, not shown in the client
-        state: "BRINGING FADHIL YT 777 DC CHANNEL TO TOP LEVEL",     // this is what people actually see
+        state: "POWERING FADHIL YT DC CHANNEL",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
