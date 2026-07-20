@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "POWERING FADHIL YT 777 DC", // required by Discord API, not shown in the client
-        state: "POWERING FADHIL YT 777 DC",     // this is what people actually see
+        state: "MADE BY ADARSH",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
