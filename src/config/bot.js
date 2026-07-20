@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "POWERING FADHIL YT 777 DC", // required by Discord API, not shown in the client
-        state: "MADE BY ADARSH",     // this is what people actually see
+        name: "STATUS", // required by Discord API, not shown in the client
+        state: "BRINGING FADHIL YT 777 DC CHANNEL TO TOP LEVEL",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
